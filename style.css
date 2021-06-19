@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* background-color:hsl(204, 90%, 70%); */
+  background-color: rgb(131, 218, 254 );
+}
+canvas {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
+
+div{
+  text-align: center;
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
