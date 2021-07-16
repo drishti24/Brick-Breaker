@@ -74,7 +74,7 @@ function draw() {
     gameState = "over";
   }
 
-  if(ball.y > 380 ){
+  if(ball.y > 390 ){
     lives = lives - 1;
     reset();
     gameState = "serve";
